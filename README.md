@@ -1,2 +1,2 @@
 # Practical-Data-Analytics-in-BFSI
-Practical Data Analytics in BFSI, published by Orange, AVA™
+Practical Data Analytics for BFSI, published by Orange, AVA™
