@@ -2,7 +2,7 @@
 ## Practical Data Analytics for BFSI
 
 This is the repository for [Practical Data Analytics for BFSI
-](https://orangeava.com/products/practical-data-analytics-for-bfsi), published by Orange AVA™
+](https://orangeava.com/products/practical-data-analytics-for-bfsi),published by Orange AVA™
 
 
 ## About the Book
